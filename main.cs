@@ -8,7 +8,7 @@ using System.Diagnostics;
 using System.Text.RegularExpressions;
 
 
-namespace ExitStuckTFT
+namespace ExitStuckLOL
 {
     // @ref https://stackoverflow.com/questions/7666408/how-to-request-administrator-permissions-when-the-program-starts
     class Program
